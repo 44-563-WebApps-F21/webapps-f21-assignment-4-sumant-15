@@ -7,10 +7,40 @@ h4{
 }
 
 .stage-direction{
-    color: black;
     background-color: #F0F8FF;
 }
 
 .stage-direction:hover{
+    color: black;
     background-color: yellow;
 }
+
+.MICHAEL{
+    color:tomato;
+}
+
+.PRES{
+    color:turquoise;
+}
+
+.CONSPIRATORS{
+    color:violet;
+}
+
+.MICH{
+    color:teal;
+}
+
+.ALEXIS{
+    color: bisque;
+}
+
+.PROFESSOR{
+    color:cyan;
+}
+
+.PROF{
+    color:darkgray;
+}
+
+
