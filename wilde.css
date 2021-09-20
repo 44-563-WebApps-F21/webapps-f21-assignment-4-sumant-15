@@ -1,0 +1,16 @@
+h4{
+    color: black;
+}
+
+.speech{
+    color: black;
+}
+
+.stage-direction{
+    color: black;
+    background-color: #F0F8FF;
+}
+
+.stage-direction:hover{
+    background-color: yellow;
+}
