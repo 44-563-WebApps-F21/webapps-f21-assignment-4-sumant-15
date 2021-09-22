@@ -1,18 +1,25 @@
 h4{
     color: black;
+    font-family: initial;
+    font-size: 100%;
 }
 
 .speech{
     color: black;
+    font-family: initial;
+    font-size: 100%;
 }
 
 .stage-direction{
     background-color: #F0F8FF;
+    font-family: initial;
 }
 
 .stage-direction:hover{
     color: black;
     background-color: yellow;
+    border: 1px solid;
+    font-family: initial;
 }
 
 .MICHAEL{
@@ -30,7 +37,7 @@ h4{
 
 .MICH{
     color:teal;
-    text-shadow: 2px 2px #FF0000;
+    /* text-shadow: 2px 2px #FF0000; */
 }
 
 .ALEXIS{
@@ -54,6 +61,30 @@ table {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
   }
 
   
